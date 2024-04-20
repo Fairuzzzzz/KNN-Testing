@@ -1,2 +1,1 @@
-# KNN-Testing
-Testing KNN Algorithms
+# Diabetes prediction using the KNN algorithm
